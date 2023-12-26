@@ -1,0 +1,30 @@
+#########################################
+# Syntax Coloring Map For PumpMix
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)
+#########################################
+
+PumpMix KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)
+#########################################
+
+begin   KEYWORD2
+start   KEYWORD2
+stop   KEYWORD2
+allStart   KEYWORD2
+allStop   KEYWORD2
+changeState   KEYWORD2
+getState   KEYWORD2
+getMix   KEYWORD2
+getCycle   KEYWORD2
+mix   KEYWORD2
+mixRun   KEYWORD2
+
+#########################################
+# Constants (LITERAL1)
+#########################################
+
